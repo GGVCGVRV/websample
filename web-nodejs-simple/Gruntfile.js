@@ -7,6 +7,8 @@
 // use this if you want to recursively match all subfolders:
 // 'test/spec/**/*.js'
 
+// test commit
+
 module.exports = function (grunt) {
 
   // Time how long tasks take. Can help when optimizing build times
