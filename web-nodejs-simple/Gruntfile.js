@@ -7,7 +7,7 @@
 // use this if you want to recursively match all subfolders:
 // 'test/spec/**/*.js'
 
-// test commit
+// update again
 
 module.exports = function (grunt) {
 
